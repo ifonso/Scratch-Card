@@ -2,4 +2,4 @@
 
 Just a simple project to study shapes and animations in swiftUI.
 
-![GifAnimation](./Assets/GIF-Animation.gif) | ![GifAnimation](./Assets/GIF-Scratching.gif)
+![GIF](./Assets/GIF-Anim.gif) | ![GIF](./Assets/GIF-Scratch.gif)
